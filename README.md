@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | UI/UX Designer</h3>
 <p align="center">
-  <img src="[https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl0MXBxN2d6M2FieWI2d3Rnajl1aHR4YW0xc2VoZjB1Y2xvMXE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="700"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl0MXBxN2d6M2FieWI2d3Rnajl1aHR4YW0xc2VoZjB1Y2xvMXE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="700"/>
 </p>
+
 
 ---
 
