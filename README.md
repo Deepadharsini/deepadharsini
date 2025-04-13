@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
-<h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | UI/UX Designer</h3>
+<h3 align="center">Full Stack Developer | Cloud Enthusiast | UI/UX Designer</h3>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl0MXBxN2d6M2FieWI2d3Rnajl1aHR4YW0xc2VoZjB1Y2xvMXE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="700"/>
 </p>
@@ -11,7 +11,6 @@
 
 🎓 B.E. in Electronics and Communication Engineering – Bannari Amman Institute of Technology (2022–2026)  
 💻 MERN Stack Developer with a passion for clean UI/UX  
-☁️ DevOps and Cloud learner – AWS | GitHub Actions | Docker  
 🎯 I build apps that bridge software and technology-driven systems  
 
 ---
