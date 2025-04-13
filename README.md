@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | UI/UX Designer</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="700"/>
 </p>
 
 ---
