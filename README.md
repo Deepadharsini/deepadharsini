@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="700"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | UI/UX Designer</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="700"/>
+</p>
 
 ---
 
