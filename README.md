@@ -1,85 +1,89 @@
-<h1 align="center">Hey 👋, I'm Deepadharsini K</h1>
-<h3 align="center">Full Stack Developer (MERN) | Cloud & DevOps Enthusiast | UI/UX Designer</h3>
+<h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
+<h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=deepadharsini&label=Profile%20views&color=0e75b6&style=flat" alt="deepadharsini" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-🎓 B.E. Electronics and Communication Engineering — 2022–2026  
-🌐 Full Stack Developer (Backend heavy) — MERN | Redis | SQL | AWS  
-🎯 Interested in Web Dev, DevOps, Cloud, and UI/UX  
-🚀 I love solving real-world problems through code and design
+🎓 B.E. in Electronics and Communication Engineering – Bannari Amman Institute of Technology (2022–2026)  
+💻 Backend-heavy MERN Stack Developer with a passion for clean UI/UX  
+☁️ DevOps and Cloud learner – AWS | GitHub Actions | Docker  
+🎯 I build apps that bridge software and technology-driven systems  
+🎤 Guinness World Record holder – Group Singing Marathon 🎶
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
----
+#### 🧰 Tools & Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🧩 Projects
-
-🔹 [**FreshFleet** – Online Grocery App](https://freshfleet.vercel.app)  
-MERN-based grocery app with local farmer integration, recipe search, and nutrient-based filters.
-
-🔹 [**Instagram Clone**](https://instagram-clone-mauve-seven-17.vercel.app)  
-Instagram-style app with mock backend, post/image handling, and story features.
-
-🔹 [**Portfolio Website**](#)  
-HTML/CSS/JS portfolio to showcase my work and skills.
-
-🔹 [**Easypass Landing Page**](#)  
-A clean, responsive ticket-booking UI with engaging design.
+#### ☁️ DevOps & Deployment
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 🏆 Achievements
-
-🏅 Guinness World Record – Longest Group Singing Marathon  
-🏕️ Scouts & Guides Governor’s Award – Leadership & Service
-
----
-
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepadharsini&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepadharsini&show_icons=true&theme=tokyonight" alt="Deepadharsini's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepadharsini&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepadharsini&layout=compact&theme=tokyonight" alt="Top languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepadharsini&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🔥 Featured Projects
 
-<p align="left">
+- 🚀 [**FreshFleet** – Online Grocery Platform](https://freshfleet.vercel.app)  
+  *MERN stack web app with local vendor integration, recipe filters, and health-focused features.*
+
+- 📸 [**Instagram Clone** – Social Media App](https://instagram-clone-mauve-seven-17.vercel.app)  
+  *Frontend + JSON Server backend mock with stories, posts, and profile pages.*
+
+- 💼 [**Portfolio Website**](#)  
+  *Responsive HTML/CSS/JS portfolio to showcase my projects and skills.*
+
+- 🎫 [**Easypass Landing Page**](#)  
+  *Clean UI design for an online ticket booking platform.*
+
+---
+
+### 📬 Connect With Me
+
+<p>
   <a href="https://www.linkedin.com/in/deepadharsinik" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/deepadharsini" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/deepadharsini_1203/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=Leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 ---
+🧠 *"Code with purpose. Design with passion."*
 
-🧠 *"Turning ideas into reality — one commit at a time."*
