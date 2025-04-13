@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
-<h3 align="center">Full Stack Developer | Cloud Enthusiast | UI/UX Designer</h3>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl0MXBxN2d6M2FieWI2d3Rnajl1aHR4YW0xc2VoZjB1Y2xvMXE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="700"/>
+  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
+<h3 align="center">Full Stack Developer | Cloud Enthusiast | UI/UX Designer</h3>
 
 ---
 
@@ -11,6 +11,7 @@
 
 🎓 B.E. in Electronics and Communication Engineering – Bannari Amman Institute of Technology (2022–2026)  
 💻 MERN Stack Developer with a passion for clean UI/UX  
+☁️ DevOps and Cloud learner – AWS | GitHub Actions 
 🎯 I build apps that bridge software and technology-driven systems  
 
 ---
@@ -40,19 +41,26 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepadharsini&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepadharsini&layout=compact&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepadharsini&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepadharsini&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deepadharsini&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepadharsini&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://github-metrics.vercel.app/api?username=deepadharsini&show=followers,achievements,activity&theme=calm" />
+</p>
+
+<!-- Snake Animation (optional: enable via GitHub Actions) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepadharsini/deepadharsini/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🔥 Featured Projects
+### 🌟 Featured Projects
 
 - 🚀 [**FreshFleet** – Online Grocery Platform](https://freshfleet.vercel.app)  
   *MERN stack web app with local vendor integration, recipe filters, and health-focused features.*
@@ -70,7 +78,7 @@
 
 ### 📬 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/deepadharsinik" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
