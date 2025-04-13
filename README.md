@@ -1,19 +1,18 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="700"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | UI/UX Designer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepadharsini&label=Profile%20views&color=0e75b6&style=flat" alt="deepadharsini" />
-</p>
 
 ---
 
 ### 👩‍💻 About Me
 
 🎓 B.E. in Electronics and Communication Engineering – Bannari Amman Institute of Technology (2022–2026)  
-💻 Backend-heavy MERN Stack Developer with a passion for clean UI/UX  
+💻 MERN Stack Developer with a passion for clean UI/UX  
 ☁️ DevOps and Cloud learner – AWS | GitHub Actions | Docker  
 🎯 I build apps that bridge software and technology-driven systems  
-🎤 Guinness World Record holder – Group Singing Marathon 🎶
 
 ---
 
@@ -45,11 +44,11 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepadharsini&show_icons=true&theme=tokyonight" alt="Deepadharsini's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepadharsini&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepadharsini&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepadharsini&layout=compact&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepadharsini&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepadharsini&theme=tokyonight" />
 </p>
 
 ---
@@ -85,5 +84,9 @@
 </p>
 
 ---
-🧠 *"Code with purpose. Design with passion."*
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepadharsini&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">🧠 <i>“Code with purpose. Design with passion.”</i></p>
