@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Deepadharsini K</h1>
-<h3 align="center">Full Stack Developer | Cloud Enthusiast | UI/UX Designer</h3>
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl0MXBxN2d6M2FieWI2d3Rnajl1aHR4YW0xc2VoZjB1Y2xvMXE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="700"/>
-</p>
-
-
----
-
 ### 👩‍💻 About Me
 
 🎓 B.E. in Electronics and Communication Engineering – Bannari Amman Institute of Technology (2022–2026)  
@@ -33,24 +24,8 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### ☁️ DevOps & Deployment
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepadharsini&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepadharsini&layout=compact&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepadharsini&theme=tokyonight" />
-</p>
-
----
 
 ### 🔥 Featured Projects
 
