@@ -1,37 +1,46 @@
+# 👩‍💻 About Me
 
-👩‍💻 About Me
-B.E. in Electronics and Communication Engineering
-Bannari Amman Institute of Technology (2022–2026)
-MERN Stack Developer passionate about clean UI/UX.
+**B.E. in Electronics and Communication Engineering**  
+Bannari Amman Institute of Technology (2022–2026)  
+MERN Stack Developer passionate about clean UI/UX.  
 I build apps that bridge software with technology-driven systems.
 
-🛠️ Tech Stack
-Languages:
+---
+
+# 🛠️ Tech Stack
+
+**Languages:**  
 JavaScript, C, Java
 
-Tools & Frameworks:
+**Tools & Frameworks:**  
 React, MongoDB, SQL, HTML, CSS
 
-🔥 Featured Projects
-FreshFleet – Online Grocery Platform
-MERN stack web app with local vendor integration, recipe filters, and health-focused features.
-View Project
+---
 
-Instagram Clone – Social Media App
-Frontend + JSON Server backend mock with stories, posts, and profile pages.
-View Project
+# 🔥 Featured Projects
 
-Portfolio Website
-Responsive HTML/CSS/JS portfolio to showcase my projects and skills.
+- **FreshFleet – Online Grocery Platform**  
+  MERN stack web app with local vendor integration, recipe filters, and health-focused features.  
+  [View Project](https://freshfleet.vercel.app)
 
-Easypass Landing Page
-Clean UI design for an online ticket booking platform.
+- **Instagram Clone – Social Media App**  
+  Frontend + JSON Server backend mock with stories, posts, and profile pages.  
+  [View Project](https://instagram-clone-mauve-seven-17.vercel.app)
 
-📬 Connect With Me
-LinkedIn: deepadharsinik
+- **Portfolio Website**  
+  Responsive HTML/CSS/JS portfolio to showcase my projects and skills.
 
-GitHub: deepadharsini
+- **Easypass Landing Page**  
+  Clean UI design for an online ticket booking platform.
 
-LeetCode: deepadharsini_1203
+---
+
+# 📬 Connect With Me
+
+- LinkedIn: [deepadharsinik](https://www.linkedin.com/in/deepadharsinik)  
+- GitHub: [deepadharsini](https://github.com/deepadharsini)  
+- LeetCode: [deepadharsini_1203](https://leetcode.com/u/deepadharsini_1203/)
+
+---
 
 <p align="center"><i>“Code with purpose. Design with passion.”</i></p>
