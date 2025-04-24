@@ -20,12 +20,10 @@ React, MongoDB, SQL, HTML, CSS
 # 🔥 Featured Projects
 
 - **FreshFleet – Online Grocery Platform**  
-  MERN stack web app with local vendor integration, recipe filters, and health-focused features.  
-  [View Project](https://freshfleet.vercel.app)
+  (https://freshfleet.vercel.app)
 
 - **Instagram Clone – Social Media App**  
-  Frontend + JSON Server backend mock with stories, posts, and profile pages.  
-  [View Project](https://instagram-clone-mauve-seven-17.vercel.app)
+(https://instagram-clone-mauve-seven-17.vercel.app)
 
 - **Portfolio Website**  
   Responsive HTML/CSS/JS portfolio to showcase my projects and skills.
