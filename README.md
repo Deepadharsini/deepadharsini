@@ -25,11 +25,9 @@ React, MongoDB, SQL, HTML, CSS
 - **Instagram Clone – Social Media App**  
 (https://instagram-clone-mauve-seven-17.vercel.app)
 
-- **Portfolio Website**  
-  Responsive HTML/CSS/JS portfolio to showcase my projects and skills.
+- **Goal Keeper- Productivity tracker**  
+ 
 
-- **Easypass Landing Page**  
-  Clean UI design for an online ticket booking platform.
 
 ---
 
