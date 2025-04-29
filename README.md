@@ -4,7 +4,7 @@
 *Bannari Amman Institute of Technology (2022–2026)*
 
 💻 **MERN Stack Developer** passionate about **clean UI/UX**.  
-🚀 I build apps that **bridge software with technology-driven systems**.
+🚀 **Full-Stack Developer and DevOps Enthusiast**.
 
 ---
 
