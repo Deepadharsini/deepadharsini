@@ -30,9 +30,9 @@
 # 🔥 Featured Projects
 
 - 🌽 **[FreshFleet – Online Grocery Platform](https://freshfleet.vercel.app)**
-         -React.js    -Express    -MongoDB     -Node.js
+         -React.js    -Express.js    -MongoDB     -Node.js
 - 🎯 **[Goal Keeper – Productivity Tracker](https://goalkee.vercel.app/)**
-         -React.js    -Express    -Firebase    -Node.js
+         -React.js    -Express.js    -Firebase    -Node.js
 - 📸 **[Instagram Clone – Social Media App](https://instagram-clone-mauve-seven-17.vercel.app)** -React.js    -Javascript   
 
 ---
