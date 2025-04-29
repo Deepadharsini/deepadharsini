@@ -33,8 +33,7 @@
          -React.js    -Express    -MongoDB     -Node.js
 - 🎯 **[Goal Keeper – Productivity Tracker](https://goalkee.vercel.app/)**
          -React.js    -Express    -Firebase    -Node.js
-- 📸 **[Instagram Clone – Social Media App](https://instagram-clone-mauve-seven-17.vercel.app)**  
-         -React.js    -Javascript   
+- 📸 **[Instagram Clone – Social Media App](https://instagram-clone-mauve-seven-17.vercel.app)** -React.js    -Javascript   
 
 ---
 
