@@ -1,8 +1,5 @@
 # 👩‍💻 About Me
 
-🎓 **B.E. in Electronics and Communication Engineering**  
-*Bannari Amman Institute of Technology (2022–2026)*
-
 💻 **MERN Stack Developer** passionate about **clean UI/UX**.  
 🚀 **Full-Stack Developer and DevOps Enthusiast**.
 
