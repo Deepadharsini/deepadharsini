@@ -6,7 +6,7 @@
 ---
 
 <p align="left" style="display:flex; flex-wrap: wrap; gap: 12px; max-width: 360px;">
-  <span style="background:#d1d5db; /* Tailwind's gray-300 */
+  <span style="background: red; /* Tailwind's gray-300 */
                padding: 12px; 
                border-radius: 12px; 
                display: flex; 
