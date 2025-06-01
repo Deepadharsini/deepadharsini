@@ -6,40 +6,60 @@
 ---
 
 <p align="left" style="display:flex; flex-wrap: wrap; gap: 12px; max-width: 360px;">
-  <span style="background:#f7df1e; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" />
+  <span style="background:#d1d5db; /* Tailwind's gray-300 */
+               padding: 12px; 
+               border-radius: 12px; 
+               display: flex; 
+               align-items: center; 
+               justify-content: center; 
+               width: 64px; 
+               height: 64px; 
+               box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
   </span>
-  <span style="background:#a8b9cc; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" height="28" alt="C" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" />
   </span>
-  <span style="background:#007396; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.3);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" />
   </span>
-  <span style="background:#61dafb; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
   </span>
-  <span style="background:#339933; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.3);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
   </span>
-  <span style="background:#000000; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(255,255,255,0.3);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" height="28" alt="Express" style="filter: brightness(0) invert(1);" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" style="filter: brightness(0) invert(1);" />
   </span>
-  <span style="background:#47a248; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.3);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
   </span>
-  <span style="background:#4479a1; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.3);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
   </span>
-  <span style="background:#e34f26; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
   </span>
-  <span style="background:#1572b6; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
   </span>
-  <span style="background:#ffca28; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center; width:48px; height:48px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" height="28" alt="Firebase" />
+  
+  <span style="background:#d1d5db; padding: 12px; border-radius: 12px; display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" />
   </span>
 </p>
+
+ 
 
 
 
